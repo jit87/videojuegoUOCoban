@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.utils.SpriteTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-26T22:52:07" hostname="LAPTOP-145NJ7KA" time="0.005">
+  <properties/>
+  <testcase name="Sanity Sprite - Methods definition" classname="edu.uoc.uocoban.model.utils.SpriteTest" time="0.004"/>
+  <testcase name="Sanity Sprite - Enum definition" classname="edu.uoc.uocoban.model.utils.SpriteTest" time="0.0"/>
+  <testcase name="Sanity Sprite - Fields definition" classname="edu.uoc.uocoban.model.utils.SpriteTest" time="0.0"/>
+  <system-out><![CDATA[private edu.uoc.uocoban.model.utils.Sprite(java.lang.String,int,char,java.lang.String)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

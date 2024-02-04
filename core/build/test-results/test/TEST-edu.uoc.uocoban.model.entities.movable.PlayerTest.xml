@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.entities.movable.PlayerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-06-26T22:52:07" hostname="LAPTOP-145NJ7KA" time="0.008">
+  <properties/>
+  <testcase name="Sanity Player - Class definition" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <testcase name="Sanity Player - Methods definition" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <testcase name="testMovePlayer1()" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <testcase name="testMovePlayer2()" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <testcase name="testMovePlayer3()" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <testcase name="testMovePlayer4()" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <testcase name="testInitPlayer()" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <testcase name="testIsPathable()" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.001"/>
+  <testcase name="Sanity Player - Fields definition" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <testcase name="testSetPosition()" classname="edu.uoc.uocoban.model.entities.movable.PlayerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

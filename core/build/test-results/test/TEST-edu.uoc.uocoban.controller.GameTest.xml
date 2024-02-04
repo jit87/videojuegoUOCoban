@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.controller.GameTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-06-26T22:52:07" hostname="LAPTOP-145NJ7KA" time="0.052">
+  <properties/>
+  <testcase name="testIsLevelDeadlocked()" classname="edu.uoc.uocoban.controller.GameTest" time="0.036"/>
+  <testcase name="testHasLostGame()" classname="edu.uoc.uocoban.controller.GameTest" time="0.001"/>
+  <testcase name="testHasLostLevel()" classname="edu.uoc.uocoban.controller.GameTest" time="0.001"/>
+  <testcase name="testIsLevelCompleted()" classname="edu.uoc.uocoban.controller.GameTest" time="0.001"/>
+  <testcase name="testDecLives()" classname="edu.uoc.uocoban.controller.GameTest" time="0.001"/>
+  <testcase name="testNextLevel()" classname="edu.uoc.uocoban.controller.GameTest" time="0.004"/>
+  <testcase name="testIsFinished()" classname="edu.uoc.uocoban.controller.GameTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

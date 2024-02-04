@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.entities.movable.BoxTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-06-26T22:52:07" hostname="LAPTOP-145NJ7KA" time="0.012">
+  <properties/>
+  <testcase name="Sanity Box - Class definition" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.001"/>
+  <testcase name="Sanity Box - Methods definition" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.002"/>
+  <testcase name="testDeliverBigBoxInSmallBoxDestination()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.001"/>
+  <testcase name="testDeliverSmallBox()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.001"/>
+  <testcase name="testIsPathable()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.001"/>
+  <testcase name="testDeliverBigBox()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.001"/>
+  <testcase name="testBlockingBoxes()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.001"/>
+  <testcase name="testDeliverSmallBoxInBigBoxDestination()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.001"/>
+  <testcase name="testMoveBox()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.0"/>
+  <testcase name="Sanity Box - Fields definition" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.0"/>
+  <testcase name="testInitBox()" classname="edu.uoc.uocoban.model.entities.movable.BoxTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

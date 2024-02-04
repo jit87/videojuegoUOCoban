@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.uocoban.model.LevelTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-06-26T22:52:07" hostname="LAPTOP-145NJ7KA" time="0.025">
+  <properties/>
+  <testcase name="Sanity Level - Class definition" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="Sanity Level - Methods definition" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="testMinimumMovementsError()" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="testMinimumHeightError()" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="testDecRemainingMovements()" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="testMinimumWidthError()" classname="edu.uoc.uocoban.model.LevelTest" time="0.002"/>
+  <testcase name="testHasWon()" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="Sanity Level - Fields definition" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="Testing deadlock by cornered box" classname="edu.uoc.uocoban.model.LevelTest" time="0.003"/>
+  <testcase name="Testing deadlock by left horizontal block between two boxes" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="Testing deadlock by right horizontal block between two boxes" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <testcase name="Testing deadlock by down vertical block between two boxes" classname="edu.uoc.uocoban.model.LevelTest" time="0.002"/>
+  <testcase name="Testing deadlock by up vertical block between two boxes" classname="edu.uoc.uocoban.model.LevelTest" time="0.002"/>
+  <testcase name="Testing non-deadlock situations" classname="edu.uoc.uocoban.model.LevelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
